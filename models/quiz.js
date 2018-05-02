@@ -1,6 +1,6 @@
 const quizzes = [
 	{	id: 1,
-		question: "Capital de Italia",
+		question: "Pregunta Numero 1",
 		answer: "Roma"
 	},
 	{	id: 2,
